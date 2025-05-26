@@ -1,0 +1,295 @@
+{
+  "user": [
+    {
+      "id": "b699",
+      "userCode": "2",
+      "userName": "2",
+      "password": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+      "enable": true,
+      "groupList": [],
+      "userDescription": ""
+    }
+  ],
+  "userGroup": [
+    {
+      "groupCode": "1",
+      "groupName": "123",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "453453453",
+      "id": "56f9"
+    },
+    {
+      "groupCode": "2",
+      "groupName": "2",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "0bf3"
+    },
+    {
+      "groupCode": "3",
+      "groupName": "3",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "5186"
+    },
+    {
+      "groupCode": "4",
+      "groupName": "4",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "d5dd"
+    },
+    {
+      "groupCode": "5",
+      "groupName": "5",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "1934"
+    },
+    {
+      "groupCode": "6",
+      "groupName": "6",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "6455"
+    },
+    {
+      "groupCode": "7",
+      "groupName": "7",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "6f4b"
+    },
+    {
+      "groupCode": "8",
+      "groupName": "8",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "2a82"
+    },
+    {
+      "groupCode": "9",
+      "groupName": "9",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "a31b"
+    },
+    {
+      "groupCode": "10",
+      "groupName": "10",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "daf4"
+    },
+    {
+      "groupCode": "11",
+      "groupName": "11",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "5faa"
+    },
+    {
+      "groupCode": "12",
+      "groupName": "12",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "3469"
+    },
+    {
+      "groupCode": "13",
+      "groupName": "13",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "1e7a"
+    },
+    {
+      "groupCode": "14",
+      "groupName": "14",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "7a57"
+    },
+    {
+      "groupCode": "15",
+      "groupName": "15",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "b5f1"
+    },
+    {
+      "groupCode": "16",
+      "groupName": "16",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "5fbb"
+    },
+    {
+      "groupCode": "17",
+      "groupName": "17",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "9477"
+    },
+    {
+      "groupCode": "18",
+      "groupName": "18",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "d849"
+    },
+    {
+      "groupCode": "19",
+      "groupName": "19",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "d7f5"
+    },
+    {
+      "groupCode": "20",
+      "groupName": "20",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "113a"
+    },
+    {
+      "groupCode": "21",
+      "groupName": "21",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "9fda"
+    },
+    {
+      "groupCode": "22",
+      "groupName": "22",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "eb6f"
+    },
+    {
+      "groupCode": "23",
+      "groupName": "23",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "04d5"
+    },
+    {
+      "groupCode": "24",
+      "groupName": "24",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "9c42"
+    },
+    {
+      "groupCode": "25",
+      "groupName": "25",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "9573"
+    },
+    {
+      "groupCode": "26",
+      "groupName": "26",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "ba3a"
+    },
+    {
+      "groupCode": "27",
+      "groupName": "27",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "5695"
+    },
+    {
+      "groupCode": "28",
+      "groupName": "28",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "fa38"
+    },
+    {
+      "groupCode": "29",
+      "groupName": "29",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "09c5"
+    },
+    {
+      "groupCode": "30",
+      "groupName": "30",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "02e6"
+    },
+    {
+      "groupCode": "31",
+      "groupName": "31",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "6312"
+    },
+    {
+      "groupCode": "32",
+      "groupName": "32",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "0a57"
+    },
+    {
+      "groupCode": "33",
+      "groupName": "33",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "ea85"
+    },
+    {
+      "groupCode": "34",
+      "groupName": "34",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "ea54"
+    },
+    {
+      "groupCode": "35",
+      "groupName": "35",
+      "enable": true,
+      "userList": [],
+      "groupDescription": "",
+      "id": "ac14"
+    }
+  ]
+}
