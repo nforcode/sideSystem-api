@@ -3,5 +3,8 @@
     "cors": "^2.8.5",
     "json-server": "^1.0.0-beta.3",
     "start": "node server.js"
+  },
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
   }
 }
